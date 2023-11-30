@@ -1,1 +1,11 @@
 
+body {
+    background-color: #eee;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: chocolate;
+}
