@@ -8,9 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="physiques.svg"
+   sodipodi:docname="23007634-physiques.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.45344416"
-     inkscape:cx="396.96177"
-     inkscape:cy="384.83239"
+     inkscape:zoom="0.78374771"
+     inkscape:cx="394.89748"
+     inkscape:cy="274.96093"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -33,28 +34,173 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <rect
+       x="25.518416"
+       y="33.173941"
+       width="694.10091"
+       height="470.81477"
+       id="rect6" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g14"
+         id="use15" />
+    </clipPath>
+  </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect1"
-       width="69.43615"
-       height="29.75835"
-       x="25.67387"
-       y="30.341846" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="53.098232"
-       y="44.929276"
-       id="text2"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,2.3626285e-6,1.6005843e-6)"
+       id="text6"
+       style="font-size:26.6667px;text-align:start;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#ffd5d5;stroke-width:3" />
+    <rect
+       style="fill:#000080;stroke-width:0.79375"
+       id="rect9"
+       width="110.05349"
+       height="59.077793"
+       x="7.089335"
+       y="16.54178"
+       rx="0.29174852"
+       ry="0.29174852" />
+    <g
+       id="g15"
+       clip-path="url(#clipPath15)">
+      <g
+         inkscape:label="Clip"
+         id="g14">
+        <rect
+           style="fill:#00ff00;stroke-width:1.00000003;stroke-dasharray:none;opacity:0.2679558"
+           id="rect10"
+           width="50.638107"
+           height="31.395626"
+           x="7.089335"
+           y="16.54178"
+           rx="0.29174852"
+           ry="0.29174852" />
+      </g>
+    </g>
+    <g
+       id="g17"
+       clip-path="url(#clipPath15)"
+       transform="matrix(-0.99999996,0,0,-0.89247311,177.57096,118.40242)">
+      <g
+         inkscape:label="Clip"
+         id="g16">
+        <rect
+           style="opacity:0.267956;fill:#000080;stroke-width:1;stroke-dasharray:none"
+           id="rect15"
+           width="62.791248"
+           height="41.230404"
+           x="7.089335"
+           y="16.54178"
+           rx="0.29174852"
+           ry="0.32689896" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;opacity:0.267956;fill:#00ffff;stroke-width:1;stroke-dasharray:none"
+       x="78.995445"
+       y="62.116077"
+       id="text17"><tspan
          sodipodi:role="line"
-         id="tspan2"
-         style="stroke-width:0.264583"
-         x="53.098232"
-         y="44.929276">bibliographie </tspan></text>
+         id="tspan17"
+         style="stroke-width:1"
+         x="78.995445"
+         y="62.116077">Hopital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;opacity:0.267956;fill:#00ffff;stroke-width:1;stroke-dasharray:none"
+       x="21.94318"
+       y="26.669401"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="stroke-width:1"
+         x="21.94318"
+         y="26.669401">Pro-Santé</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;text-anchor:start;opacity:0.267956;fill:#00ffff;stroke-width:1;stroke-dasharray:none"
+       x="129.63354"
+       y="81.358559"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:1"
+         x="129.63354"
+         y="81.358559">Patients</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.267956;fill:#00ffff;stroke-width:1;stroke-dasharray:none"
+       id="path19"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="131.99667"
+       sodipodi:cy="34.7715"
+       sodipodi:r1="11.022112"
+       sodipodi:r2="8.9170752"
+       sodipodi:arg1="0.69865982"
+       sodipodi:arg2="1.3269784"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 140.43636,41.860835 -12.57404,3.128007 -6.8605,-10.992013 8.33401,-9.921444 12.01121,4.860223 z"
+       inkscape:transform-center-x="1.5453476"
+       inkscape:transform-center-y="-0.35917645"
+       transform="matrix(1.8794268,0,0,1.5004055,-90.545637,-11.034692)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.267956;fill:#ff00ff;stroke-width:1;stroke-dasharray:none"
+       id="path20"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="43.88636"
+       sodipodi:cy="84.734436"
+       sodipodi:r1="8.5203199"
+       sodipodi:r2="6.893084"
+       sodipodi:arg1="0.98279372"
+       sodipodi:arg2="1.6111123"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 48.612583,91.823771 -10.008098,-0.403705 -2.708726,-9.643018 8.334013,-5.556008 7.859429,6.209216 z"
+       inkscape:transform-center-x="-0.21452124"
+       inkscape:transform-center-y="-1.4515165"
+       transform="matrix(2.0215111,0,0,2.0385485,-49.158649,-73.420264)" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.5427px;text-align:start;text-anchor:start;opacity:0.267956;fill:#ff00ff;stroke-width:0.927313;stroke-dasharray:none"
+       x="189.00734"
+       y="32.867214"
+       id="text21"
+       transform="scale(0.74364311,1.3447311)"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="stroke-width:0.927313"
+         x="189.00734"
+         y="32.867214">suivi a distance </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.94417px;text-align:start;text-anchor:start;opacity:0.267956;fill:#ff00ff;stroke-width:0.700749;stroke-dasharray:none"
+       x="40.536907"
+       y="63.206398"
+       id="text22"
+       transform="scale(0.65436207,1.5282059)"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="stroke-width:0.700749"
+         x="40.536907"
+         y="63.206398">alertes </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.700749"
+         x="40.536907"
+         y="69.38662"
+         id="tspan23">et notifications</tspan></text>
   </g>
 </svg>
