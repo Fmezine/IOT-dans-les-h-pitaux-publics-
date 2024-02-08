@@ -2,11 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
@@ -18,19 +20,57 @@
    sodipodi:docname="23007634-acteurs.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7135">
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1;"
+         offset="0"
+         id="stop7131" />
+      <stop
+         style="stop-color:#fedede;stop-opacity:0"
+         offset="1"
+         id="stop7133" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6213"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6211" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6213"
+       id="linearGradient6215"
+       x1="122.15216"
+       y1="176.04308"
+       x2="170.8882"
+       y2="176.04308"
+       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter4735"
-       x="-0.032033963"
-       width="1.0640679"
-       y="-0.0073828091"
-       height="1.0147656">
+       id="filter6225"
+       x="-0.32994982"
+       width="1.6598996"
+       y="-0.076042933"
+       height="1.1520859">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.59953101"
-         id="feGaussianBlur4737" />
+         stdDeviation="6.1751694"
+         id="feGaussianBlur6227" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7135"
+       id="linearGradient7153"
+       x1="97.770653"
+       y1="264.14441"
+       x2="184.81834"
+       y2="264.14441"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -40,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-34"
-     inkscape:cy="266.32885"
+     inkscape:cx="196.43492"
+     inkscape:cy="144.3288"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,13 +92,18 @@
      inkscape:measure-end="0,0"
      inkscape:window-width="1366"
      inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-x="24"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        position="-219.075,140.22917"
        orientation="1,0"
        id="guide4536"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="127,234.95"
+       orientation="0,1"
+       id="guide4751"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -151,12 +196,12 @@
        rx="0.29174808"
        ry="0" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffe5e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffe5e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1701103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4538"
-       width="168.27499"
-       height="45.508224"
-       x="19.049999"
-       y="242.49583"
+       width="69.415298"
+       height="45.602699"
+       x="19.002762"
+       y="242.44859"
        rx="0.29174808"
        ry="0.29174808" />
     <rect
@@ -217,7 +262,7 @@
          id="tspan4559">et </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.2;fill:#322a24;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter4735);"
+       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.2;fill:#322a24;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter6225)"
        x="48.154167"
        y="215.50835"
        id="text4563"><tspan
@@ -244,7 +289,7 @@
          style="stroke-width:0.89399999" /></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.2;fill:#2b2200;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.862;fill:#2b2200;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
        x="53.445831"
        y="263.13333"
        id="text4745"><tspan
@@ -252,17 +297,67 @@
          id="tspan4743"
          x="53.445831"
          y="263.13333"
-         style="stroke-width:0.89399999;fill:#2b2200;fill-opacity:1;">patients</tspan></text>
+         style="stroke-width:0.89399999;fill:#2b2200;fill-opacity:1;opacity:0.969;">patients</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.2;fill:#2b2200;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="151.3416"
-       y="195.9292"
+       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.766;fill:#2b2200;fill-opacity:1;stroke:#000000;stroke-width:0.894;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333335;paint-order:markers stroke fill;stroke-linejoin:bevel;"
+       x="122.23743"
+       y="178.46671"
        id="text4749"><tspan
          sodipodi:role="line"
          id="tspan4747"
-         x="151.3416"
-         y="195.9292"
-         style="stroke-width:0.89399999">constructeurs </tspan></text>
+         x="122.23743"
+         y="178.46671"
+         style="stroke-width:0.894;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:bevel;stroke:#000000;stroke-opacity:0.73333335;">constructeurs </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.07706308px;line-height:26.85000038;opacity:0.76000001;fill:#150000;fill-opacity:1;stroke:#000000;stroke-width:0.89672524;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill;"
+       x="32.690811"
+       y="178.5611"
+       id="text6231"
+       transform="scale(1.0035085,0.99650381)"><tspan
+         sodipodi:role="line"
+         x="32.690811"
+         y="178.5611"
+         style="stroke-width:0.89672524;fill:#150000;fill-opacity:1;"
+         id="tspan6233">professionels</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7125"
+       width="76.152771"
+       height="27.563915"
+       x="88.41806"
+       y="242.44859"
+       rx="0.29174808"
+       ry="0.29174808" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7127"
+       width="29.586105"
+       height="4.8097501"
+       x="88.41806"
+       y="242.44859"
+       rx="0.29174808"
+       ry="0.29174808" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient7153);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4037199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7129"
+       width="86.643982"
+       height="43.266293"
+       x="97.972511"
+       y="242.51128"
+       rx="0.29174808"
+       ry="0.29174808" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05555534px;line-height:23.85000038;opacity:0.98999999;fill:#080000;fill-opacity:1;stroke:#380202;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:markers stroke fill;"
+       x="120.12083"
+       y="258.37085"
+       id="text7143"><tspan
+         sodipodi:role="line"
+         id="tspan7141"
+         x="120.12083"
+         y="258.37085"
+         style="stroke-width:0.89399999;stroke:#380202;stroke-opacity:0;fill:#080000;fill-opacity:1;">Sécurité sociale </tspan></text>
   </g>
 </svg>
