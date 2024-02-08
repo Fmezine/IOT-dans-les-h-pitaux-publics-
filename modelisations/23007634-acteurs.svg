@@ -11,6 +11,7 @@
    sodipodi:docname="23007634-acteurs.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.54660447"
-     inkscape:cx="396.08165"
-     inkscape:cy="121.66018"
+     inkscape:zoom="0.45344416"
+     inkscape:cx="395.8591"
+     inkscape:cy="208.40493"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -33,27 +34,147 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fdf5fd;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch2"
+       id="linearGradient2"
+       x1="121.5385"
+       y1="56.37883"
+       x2="177.88241"
+       y2="56.37883"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        sodipodi:type="star"
-       style="opacity:0.267956;fill:none;stroke-width:0.79375;paint-order:markers stroke fill"
+       style="opacity:0.0165746;fill:none;stroke-width:0.79375;paint-order:markers stroke fill"
        id="path1"
        inkscape:flatsided="true"
        sodipodi:sides="5"
-       sodipodi:cx="84.708572"
-       sodipodi:cy="29.04294"
-       sodipodi:r1="106.50508"
-       sodipodi:r2="86.164421"
-       sodipodi:arg1="2.0324114"
-       sodipodi:arg2="2.6607299"
+       sodipodi:cx="64.768173"
+       sodipodi:cy="45.512772"
+       sodipodi:r1="66.038361"
+       sodipodi:r2="53.426155"
+       sodipodi:arg1="1.0834377"
+       sodipodi:arg2="1.7117563"
        inkscape:rounded="-0.03"
        inkscape:randomized="-0.102"
-       d="M 40.169942,126.90361 C 43.569777,128.51028 -10.455582,4.9230809 -10.4871,8.7606154 -10.518618,12.59815 73.106499,-77.966212 69.513139,-77.867925 c -3.593361,0.09829 115.562171,68.3817586 113.619151,65.095576 -1.94301,-3.286182 -24.13721,115.758009 -21.36401,113.103669 2.7732,-2.654331 -124.998174,24.96562 -121.598338,26.57229 z"
-       inkscape:transform-center-x="5.4611478"
-       inkscape:transform-center-y="-4.8354808" />
+       d="M 96.268715,103.58892 C 98.479796,102.83846 13.947863,89.491325 15.576349,91.136952 17.204835,92.78258 6.1522863,12.871535 5.2309343,14.979894 4.3095823,17.088254 81.275067,-24.867513 78.91545,-25.444638 c -2.359616,-0.577125 49.93542,66.640509 49.83561,64.36777 -0.0998,-2.27274 -34.693426,65.416248 -32.482345,64.665788 z"
+       inkscape:transform-center-x="-5.7818671"
+       inkscape:transform-center-y="-1.777647"
+       transform="matrix(1.2826218,-0.14237041,0.25042302,1.1086583,17.224696,46.235625)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0;fill:url(#linearGradient2);stroke-width:0.79375;paint-order:markers stroke fill"
+       id="path2"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="147.62476"
+       sodipodi:cy="58.349705"
+       sodipodi:r1="30.263199"
+       sodipodi:r2="24.483438"
+       sodipodi:arg1="-2.8076476"
+       sodipodi:arg2="-2.1793291"
+       inkscape:rounded="-0.03"
+       inkscape:randomized="-0.102"
+       d="m 121.54339,47.894864 c -0.43086,0.9803 27.71458,-17.760649 26.62356,-17.643836 -1.09102,0.116813 29.90113,17.98875 29.71462,16.896802 -0.18651,-1.091947 -15.31516,35.853795 -14.40706,35.354326 0.90811,-0.499468 -32.00523,-2.477353 -31.10232,-1.976677 0.90291,0.500676 -10.39793,-33.610914 -10.8288,-32.630615 z"
+       inkscape:transform-center-x="-1.1098742"
+       inkscape:transform-center-y="-1.8337283"
+       transform="matrix(1,0,0,1.4131411,0,14.926641)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0;fill:none;stroke-width:0.79375;paint-order:markers stroke fill"
+       id="path3"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="64.768173"
+       sodipodi:cy="65.351669"
+       sodipodi:r1="56.370167"
+       sodipodi:r2="45.604424"
+       sodipodi:arg1="0.93971694"
+       sodipodi:arg2="1.5680355"
+       inkscape:rounded="-0.03"
+       inkscape:randomized="-0.102"
+       d="M 98.258577,109.3334 C 99.925189,108.23665 25.525167,106.40677 27.20768,107.43595 28.890194,108.46514 7.9389765,40.854319 7.5475414,42.906071 7.1561063,44.957824 62.356353,14.039848 60.452117,13.818904 58.547881,13.59796 114.76083,50.735659 114.02626,48.816949 113.29169,46.898238 96.591965,110.43014 98.258577,109.3334 Z"
+       inkscape:transform-center-x="-2.3614483"
+       inkscape:transform-center-y="-6.5142509"
+       transform="matrix(0.64931413,0,0,0.99389192,39.989901,35.677721)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.53297px;opacity:0;fill:none;stroke-width:0.959958;paint-order:markers stroke fill"
+       x="68.395729"
+       y="71.355827"
+       id="text3"
+       transform="scale(1.3585131,0.7360989)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.959958"
+         x="68.395729"
+         y="71.355827">MEDECINS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.74829px;opacity:0;fill:none;stroke-width:0.871678;paint-order:markers stroke fill"
+       x="47.690437"
+       y="90.350861"
+       id="text4"
+       transform="scale(1.0981824,0.91059556)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.871678"
+         x="47.690437"
+         y="90.350861">PATIENTS </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.81345px;opacity:0;fill:none;stroke-width:0.766512;paint-order:markers stroke fill"
+       x="210.43422"
+       y="59.007908"
+       id="text5"
+       transform="scale(0.62463239,1.6009416)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.766512"
+         x="210.43422"
+         y="59.007908">CONSTRUCTEURS </tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0;fill:none;stroke-width:0.79375;paint-order:markers stroke fill"
+       id="path5"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="58.349705"
+       sodipodi:cy="9.3359528"
+       sodipodi:r1="194.10815"
+       sodipodi:r2="157.0368"
+       sodipodi:arg1="0.86412636"
+       sodipodi:arg2="1.4924449"
+       inkscape:rounded="-0.03"
+       inkscape:randomized="-0.102"
+       d="m 186.43703,162.8601 c 5.51177,-4.56028 -232.29332,17.1582 -226.438,20.04239 5.85532,2.88419 -72.72177,-239.1126 -74.57053,-232.207926 -1.84877,6.904675 175.868558,-133.462534 169.327959,-132.411324 -6.540599,1.05121 178.849871,136.733248 176.831911,129.841249 -2.01796,-6.892 -50.66311,219.295891 -45.15134,214.735611 z"
+       inkscape:transform-center-x="7.8381788"
+       inkscape:transform-center-y="-3.0963647"
+       transform="matrix(0.63593645,0,0,0.41754418,69.147916,73.871685)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;opacity:0;fill:none;stroke-width:0.79375;paint-order:markers stroke fill"
+       x="36.176815"
+       y="37.343807"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.79375"
+         x="36.176815"
+         y="37.343807">SECURITE SOCIALE</tspan></text>
   </g>
 </svg>
