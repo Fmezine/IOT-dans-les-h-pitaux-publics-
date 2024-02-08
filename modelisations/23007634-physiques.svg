@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="800"
-   height="600"
-   viewBox="0 0 211.66666 158.75"
+   width="800mm"
+   height="600mm"
+   viewBox="0 0 799.99997 600"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -18,9 +18,9 @@
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.24705882"
-     inkscape:showpageshadow="2"
+     inkscape:showpageshadow="true"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#ebebeb"
      inkscape:document-units="px"
      showguides="true"
@@ -32,14 +32,17 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     borderlayer="true"
+     showborder="true"
+     labelstyle="below">
     <sodipodi:guide
-       position="106.04656,162.0074"
+       position="106.04656,213.2574"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-35.107564,-76.144944"
+       position="-35.107563,-24.894945"
        orientation="1,0"
        id="guide2"
        inkscape:locked="false" />
@@ -47,10 +50,10 @@
   <defs
      id="defs1">
     <rect
-       x="248.96476"
-       y="443.21199"
+       x="248.96477"
+       y="443.21198"
        width="62.925159"
-       height="281.79528"
+       height="281.79529"
        id="rect8" />
   </defs>
   <g
@@ -59,7 +62,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="opacity:0;fill:none;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:0;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        id="path1"
        inkscape:flatsided="true"
        sodipodi:sides="5"
@@ -72,9 +75,9 @@
        inkscape:rounded="-0.03"
        inkscape:randomized="-0.102"
        d="m 146.56269,51.36505 c -1.00493,-2.986625 -30.27024,96.3756 -27.45704,94.83666 2.81319,-1.53893 -118.67838224,8.47328 -115.8796232,9.93997 C 6.0247858,157.60836 -21.937797,38.103361 -22.950767,41.061588 -23.963738,44.019814 69.757159,-7.362263 66.711548,-7.600169 63.665937,-7.8380751 147.56763,54.351676 146.56269,51.36505 Z"
-       inkscape:transform-center-x="-0.096214615"
-       inkscape:transform-center-y="-2.2428971"
-       transform="matrix(1.0622349,0.0735428,0.0157046,0.94988358,44.961062,5.0393156)" />
+       inkscape:transform-center-x="-0.10103735"
+       inkscape:transform-center-y="-2.199668"
+       transform="matrix(1.1154768,0.07212535,0.01649175,0.93157566,37.109787,7.8964814)" />
     <path
        sodipodi:type="star"
        style="opacity:0;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
@@ -113,7 +116,7 @@
        transform="matrix(0.61601259,0,0,1.069318,43.460762,41.298225)" />
     <path
        sodipodi:type="star"
-       style="opacity:0;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill;fill-opacity:1"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        id="path4"
        inkscape:flatsided="true"
        sodipodi:sides="5"
@@ -165,29 +168,29 @@
        inkscape:transform-center-y="0.80650469" />
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:7.05556px;opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        x="128.48645"
        y="126.67678"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan7"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          x="128.48645"
          y="126.67678">hopital</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text8"
-       style="fill:#ffffff;stroke-width:3;font-size:26.66666667px;opacity:0;paint-order:markers stroke fill;stroke:#000000;stroke-opacity:1;fill-opacity:1;white-space:pre;shape-inside:url(#rect8)" />
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect8);display:inline;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1;paint-order:markers stroke fill" />
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:7.05556px;opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        x="55.013916"
        y="124.50518"
        id="text9"><tspan
          sodipodi:role="line"
          id="tspan9"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          x="55.013916"
          y="124.50518">les  objets</tspan></text>
     <text
@@ -203,34 +206,34 @@
          y="60.442921">reseau</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:7.05556px;opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        x="47.051376"
        y="58.27132"
        id="text11"><tspan
          sodipodi:role="line"
          id="tspan11"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          x="47.051376"
          y="58.27132"></tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          id="tspan12"
          x="47.051376"
-         y="67.090775">et </tspan><tspan
+         y="67.090767">et </tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          x="47.051376"
-         y="75.910225"
+         y="75.910217"
          id="tspan13">internet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:7.05556px;opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-opacity:1;paint-order:markers stroke fill"
        x="82.882812"
        y="35.107563"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
-         style="stroke-width:0.79375"
+         style="stroke-width:0.79375;fill:#000000"
          x="82.882812"
          y="35.107563">serveur securisé</tspan></text>
     <path
@@ -253,14 +256,14 @@
        transform="matrix(1.5259459,-0.03452331,0.02979257,2.405333,-17.569046,-55.422379)" />
     <text
        xml:space="preserve"
-       style="font-size:7.42891px;opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.835752;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:7.42891px;opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.835752;stroke-opacity:1;paint-order:markers stroke fill"
        x="120.90724"
        y="66.452965"
        id="text15"
        transform="matrix(0.92108325,-0.01557817,0.01798323,1.0853741,0,0)"><tspan
          sodipodi:role="line"
          id="tspan15"
-         style="stroke-width:0.835752"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.835752"
          x="120.90724"
          y="66.452965">platforme</tspan></text>
   </g>

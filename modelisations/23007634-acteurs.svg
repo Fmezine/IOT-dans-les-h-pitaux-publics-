@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.78374771"
-     inkscape:cx="375.12071"
-     inkscape:cy="340.03289"
+     inkscape:cx="375.75867"
+     inkscape:cy="319.61816"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -35,6 +35,14 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="swatch9"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern34"
@@ -194,6 +202,15 @@
        x2="79.80291"
        y2="56.208298"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch9"
+       id="linearGradient9"
+       x1="34.071365"
+       y1="43.765554"
+       x2="64.569058"
+       y2="43.765554"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Calque 1"
@@ -272,12 +289,12 @@
          y="118.83076">Patients</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:0;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:0;opacity:0;fill:#000000;fill-opacity:1;stroke:url(#linearGradient9);stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
        x="34.096325"
        y="46.24947"
        id="text22"><tspan
          id="tspan22"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:url(#linearGradient9);stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0;fill:#000000"
          x="34.096325"
          y="46.24947">Medecins</tspan></text>
     <text
