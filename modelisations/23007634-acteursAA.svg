@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.78374771"
      inkscape:cx="394.89749"
-     inkscape:cy="347.68842"
+     inkscape:cy="449.76208"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -35,6 +35,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient25"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop25" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern6-7"
@@ -125,6 +137,15 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25"
+       id="linearGradient26"
+       x1="19.11019"
+       y1="56.208298"
+       x2="79.802911"
+       y2="56.208298"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Calque 1"
@@ -164,7 +185,7 @@
        rx="0.29174849"
        ry="0.29174852" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1;opacity:1"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1;opacity:1;stroke:url(#linearGradient26);stroke-opacity:1"
        id="rect13"
        width="60.428139"
        height="63.128838"
@@ -236,13 +257,13 @@
          y="72.918877">infermiers </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-size:7.05556px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="107.35278"
        y="53.338806"
        id="text25"><tspan
          sodipodi:role="line"
          id="tspan25"
-         style="stroke-width:1.4941"
+         style="stroke-width:1.4941;-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.05555993px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="107.35278"
          y="53.338806">Constructeurs</tspan></text>
   </g>
