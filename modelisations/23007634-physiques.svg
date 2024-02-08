@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -683,7 +683,7 @@
        inkscape:transform-center-y="-2.047182" />
     <text
        xml:space="preserve"
-       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.98999999;fill:#050000;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill;"
+       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.98999999;fill:#050000;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        x="62.441666"
        y="193.81252"
        id="text6395"><tspan
@@ -691,7 +691,7 @@
          id="tspan6393"
          x="62.441666"
          y="193.81252"
-         style="stroke-width:0.89399999;fill:#050000;fill-opacity:1;">SEREUR</tspan></text>
+         style="fill:#050000;fill-opacity:1;stroke-width:0.89399999">SERvEUR</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05555534px;line-height:26.85000038;opacity:0.98999999;fill:#130000;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
