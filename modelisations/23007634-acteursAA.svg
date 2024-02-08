@@ -4,7 +4,7 @@
 <svg
    width="800"
    height="600"
-   viewBox="0 0 211.66666 158.75"
+   viewBox="0 0 211 158.25"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -23,10 +23,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:zoom="0.78374771"
-     inkscape:cx="394.89749"
-     inkscape:cy="449.76208"
+     inkscape:cx="375.12071"
+     inkscape:cy="340.03289"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -35,6 +35,54 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern34"
+       preserveAspectRatio="xMidYMid"
+       id="pattern36"
+       patternTransform="translate(190,350)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern32"
+       preserveAspectRatio="xMidYMid"
+       id="pattern34"
+       patternTransform="translate(190,350)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern30"
+       preserveAspectRatio="xMidYMid"
+       id="pattern32"
+       patternTransform="translate(190,350)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern30"
+       patternTransform="translate(190,350)" />
+    <rect
+       x="119.93655"
+       y="149.28273"
+       width="128.868"
+       height="133.97168"
+       id="rect29" />
+    <rect
+       x="98.245903"
+       y="150.55865"
+       width="148.00681"
+       height="133.97168"
+       id="rect28" />
+    <rect
+       x="206.69917"
+       y="150.55865"
+       width="81.658928"
+       height="34.44986"
+       id="rect27" />
+    <rect
+       x="107.17735"
+       y="117.38471"
+       width="172.24931"
+       height="168.42154"
+       id="rect26" />
     <linearGradient
        id="linearGradient25"
        inkscape:collect="always">
@@ -83,10 +131,10 @@
          id="stop2" />
     </linearGradient>
     <rect
-       x="25.518416"
-       y="33.173941"
-       width="694.10091"
-       height="470.81477"
+       x="25.518415"
+       y="33.173943"
+       width="694.10089"
+       height="470.81476"
        id="rect6" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -141,9 +189,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient25"
        id="linearGradient26"
-       x1="19.11019"
+       x1="19.110189"
        y1="56.208298"
-       x2="79.802911"
+       x2="79.80291"
        y2="56.208298"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -169,14 +217,14 @@
        id="g17"
        clip-path="url(#clipPath15)"
        transform="matrix(-0.99999996,0,0,-0.89247311,177.57096,118.40242)"
-       style="fill:#b3b3b3;paint-order:fill markers stroke;stroke:url(#pattern8)">
+       style="fill:#b3b3b3;stroke:url(#pattern36);paint-order:fill markers stroke">
       <g
          inkscape:label="Clip"
          id="g16"
-         style="fill:#b3b3b3;paint-order:fill markers stroke;stroke:url(#pattern8)" />
+         style="fill:#b3b3b3;stroke:url(#pattern36);paint-order:fill markers stroke" />
     </g>
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect12"
        width="183.30995"
        height="131.32149"
@@ -185,7 +233,7 @@
        rx="0.29174849"
        ry="0.29174852" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1;opacity:1;stroke:url(#linearGradient26);stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient26);stroke-width:0.264583"
        id="rect13"
        width="60.428139"
        height="63.128838"
@@ -194,7 +242,7 @@
        rx="0.29174849"
        ry="0.29174852" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect20"
        width="84.734444"
        height="62.453667"
@@ -203,7 +251,7 @@
        rx="0.29174849"
        ry="0.29174852" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect21"
        width="160.354"
        height="37.809784"
@@ -224,13 +272,12 @@
          y="118.83076">Patients</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:0;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
        x="34.096325"
        y="46.24947"
        id="text22"><tspan
-         sodipodi:role="line"
          id="tspan22"
-         style="stroke-width:1.4941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#000000;stroke-width:1.09723;stroke-dasharray:none;stroke-opacity:0"
          x="34.096325"
          y="46.24947">Medecins</tspan></text>
     <text
@@ -246,26 +293,46 @@
          y="60.765724">et </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-size:7.385px;line-height:0;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.31875;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="35.784264"
        y="72.918877"
        id="text24"><tspan
          sodipodi:role="line"
          id="tspan24"
-         style="stroke-width:1.4941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.385px;line-height:14.11px;font-family:'Arial Narrow For CAE';-inkscape-font-specification:'Arial Narrow For CAE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.31875;stroke-miterlimit:1.1;stroke-dasharray:none"
          x="35.784264"
          y="72.918877">infermiers </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.4941;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="107.35278"
        y="53.338806"
        id="text25"><tspan
          sodipodi:role="line"
          id="tspan25"
-         style="stroke-width:1.4941;-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.05555993px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.4941"
          x="107.35278"
          y="53.338806">Constructeurs</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text26"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect26);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.147;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text27"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Arial Narrow For CAE';-inkscape-font-specification:'Arial Narrow For CAE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect27);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.147;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect28);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.147;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text29"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:33.4px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect29);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.247;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke" />
   </g>
   <script
      id="mesh_polyfill"
