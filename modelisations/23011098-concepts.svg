@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6886"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="dessin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6888"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51445126"
+     inkscape:cx="396.53902"
+     inkscape:cy="617.16245"
+     inkscape:window-width="1440"
+     inkscape:window-height="529"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6883" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       id="path7313"
+       cx="113.40359"
+       cy="175.11984"
+       rx="86.145592"
+       ry="48.087242" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       id="path7317"
+       cx="116.48941"
+       cy="155.06206"
+       rx="48.087242"
+       ry="12.086098" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       id="path7319"
+       cx="66.859268"
+       cy="191.32036"
+       rx="26.229404"
+       ry="13.371853" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       id="path7321"
+       cx="164.57664"
+       cy="192.60612"
+       rx="24.172195"
+       ry="11.571795" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       id="path7323"
+       cx="115.46081"
+       cy="193.89186"
+       rx="20.829231"
+       ry="22.114988" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';white-space:pre;inline-size:52.6231;fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       x="100.28889"
+       y="151.7191"
+       id="text7327"><tspan
+         x="100.28889"
+         y="151.7191"
+         id="tspan7542">Sécurité de données
+</tspan><tspan
+         x="100.28889"
+         y="157.89273"
+         id="tspan7544"> de santé </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       x="58.116131"
+       y="187.72025"
+       id="text7333"><tspan
+         sodipodi:role="line"
+         id="tspan7331"
+         style="stroke-width:0.264583"
+         x="58.116131"
+         y="187.72025">Capteurs </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="58.116131"
+         y="193.89388"
+         id="tspan7335">de santé</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       x="104.40331"
+       y="188.23456"
+       id="text7339"><tspan
+         sodipodi:role="line"
+         id="tspan7337"
+         style="stroke-width:0.264583"
+         x="104.40331"
+         y="188.23456">Suivi </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.40331"
+         y="194.40819"
+         id="tspan7341">des </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.40331"
+         y="200.5818"
+         id="tspan7343">patients</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#f2f2f2;stroke:#000000;stroke-width:0.264583"
+       x="150.69049"
+       y="191.83466"
+       id="text7347"><tspan
+         sodipodi:role="line"
+         id="tspan7345"
+         style="stroke-width:0.264583"
+         x="150.69049"
+         y="191.83466">Télémedecine</tspan></text>
+  </g>
+</svg>
