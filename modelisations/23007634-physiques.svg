@@ -22,6 +22,18 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient913">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop909" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop911" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient6473">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -39,18 +51,6 @@
          style="stop-color:#fee5e5;stop-opacity:1;"
          offset="0"
          id="stop6463" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6405">
-      <stop
-         style="stop-color:#fee5e5;stop-opacity:1;"
-         offset="0"
-         id="stop6401" />
-      <stop
-         style="stop-color:#fee5e5;stop-opacity:0;"
-         offset="1"
-         id="stop6403" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -102,30 +102,21 @@
        x="248.96477" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6405"
-       id="linearGradient6407"
-       x1="11.607987"
-       y1="39.791431"
-       x2="107.5773"
-       y2="39.791431"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6465"
-       id="linearGradient6467"
-       x1="16.792738"
-       y1="36.937164"
-       x2="161.87598"
-       y2="36.937164"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient6473"
        id="linearGradient6475"
        x1="16.792738"
        y1="36.937166"
        x2="161.87598"
        y2="36.937166"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient913"
+       id="linearGradient915"
+       x1="56.10631"
+       y1="203.67892"
+       x2="92.491683"
+       y2="203.67892"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -137,7 +128,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="682.81329"
-     inkscape:cy="37.374406"
+     inkscape:cy="-42.625594"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -150,7 +141,7 @@
      inkscape:window-height="705"
      inkscape:window-x="24"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <sodipodi:guide
        position="-219.075,140.22917"
        orientation="1,0"
@@ -170,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -511,7 +502,7 @@
     </g>
     <path
        sodipodi:type="star"
-       style="opacity:0.76200005;fill:#ffefef;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.76200005;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6333"
        sodipodi:sides="5"
        sodipodi:cx="60.854164"
@@ -529,7 +520,7 @@
        inkscape:transform-center-y="-11.466392" />
     <path
        sodipodi:type="star"
-       style="opacity:0.76200005;fill:#ffefef;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.76200005;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6337"
        sodipodi:sides="5"
        sodipodi:cx="61.383331"
@@ -561,11 +552,11 @@
        sodipodi:cx="61.383331"
        sodipodi:sides="5"
        id="path6339"
-       style="opacity:0.76200005;fill:url(#linearGradient6407);fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.76200005;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        sodipodi:type="star" />
     <path
        sodipodi:type="star"
-       style="opacity:0.76200005;fill:url(#linearGradient6467);fill-opacity:1;stroke:url(#linearGradient6475);stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.76200005;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient6475);stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6341"
        sodipodi:sides="5"
        sodipodi:cx="91.54583"
@@ -665,7 +656,7 @@
          style="fill:#130000;fill-opacity:1;stroke-width:0.89399999">OBJETS</tspan></text>
     <path
        sodipodi:type="star"
-       style="opacity:0.98999999;fill:#ffecec;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6387"
        sodipodi:sides="5"
        sodipodi:cx="42.862499"
@@ -694,7 +685,7 @@
          style="fill:#050000;fill-opacity:1;stroke-width:0.89399999">SERvEUR</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.98999999;fill:#130000;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="font-size:7.05555534px;line-height:26.85000038;opacity:0.98999999;fill:#101010;fill-opacity:1;stroke:#000000;stroke-width:0.89399999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill;"
        x="56.091667"
        y="206.51251"
        id="text6399"><tspan
@@ -702,6 +693,6 @@
          id="tspan6397"
          x="56.091667"
          y="206.51251"
-         style="fill:#130000;fill-opacity:1;stroke-width:0.89399999">SECURISé</tspan></text>
+         style="fill:#101010;fill-opacity:1;stroke-width:0.89399999;">SECURISé</tspan></text>
   </g>
 </svg>

@@ -129,8 +129,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="682.81329"
-     inkscape:cy="197.37441"
+     inkscape:cx="345.81329"
+     inkscape:cy="37.37441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -163,7 +163,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -478,7 +478,7 @@
            sodipodi:role="line">platforme</tspan></text>
     </g>
     <path
-       style="opacity:0.98999999;fill:#fee5e5;fill-opacity:1;stroke:#000000;stroke-width:0.92995745;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.92995745;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6477"
        sodipodi:type="arc"
        sodipodi:cx="100.03139"
@@ -489,7 +489,7 @@
        sodipodi:end="6.2778271"
        d="M 199.85766,227.43195 A 99.826271,64.114616 0 0 1 100.16511,291.5465 99.826271,64.114616 0 0 1 0.20547453,227.60372 99.826271,64.114616 0 0 1 99.630221,163.31785 99.826271,64.114616 0 0 1 199.85623,227.08841 l -99.82484,0.34354 z" />
     <path
-       style="opacity:0.98999999;fill:#fee5e5;fill-opacity:1;stroke:#000000;stroke-width:0.97365218;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.97365218;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6485"
        sodipodi:type="arc"
        sodipodi:cx="67.908127"
@@ -501,7 +501,7 @@
        sodipodi:open="true"
        d="m 119.0625,219.4771 a 51.154369,19.314583 0 0 1 -51.085849,19.31456 51.154369,19.314583 0 0 1 -51.22271,-19.26282 51.154369,19.314583 0 0 1 50.948615,-19.36617 51.154369,19.314583 0 0 1 51.359204,19.21094" />
     <path
-       style="opacity:0.98999999;fill:#fee5e5;fill-opacity:1;stroke:#000000;stroke-width:1.1135627;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.1135627;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6487"
        sodipodi:type="arc"
        sodipodi:cx="141.82611"
@@ -512,7 +512,7 @@
        sodipodi:end="6.2778271"
        d="m 176.2125,226.03149 a 34.386391,28.106018 0 0 1 -34.34033,28.106 34.386391,28.106018 0 0 1 -34.43233,-28.0307 34.386391,28.106018 0 0 1 34.24808,-28.18109 34.386391,28.106018 0 0 1 34.52409,27.9552 l -34.3859,0.15059 z" />
     <path
-       style="opacity:0.98999999;fill:#fee5e5;fill-opacity:1;stroke:#000000;stroke-width:1.13901091;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13901091;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6489"
        sodipodi:type="arc"
        sodipodi:cx="103.1875"
@@ -523,7 +523,7 @@
        sodipodi:end="6.2778271"
        d="m 159.27917,188.35139 a 56.091667,26.627775 0 0 1 -56.01653,26.62776 56.091667,26.627775 0 0 1 -56.166606,-26.55642 56.091667,26.627775 0 0 1 55.866056,-26.6989 56.091667,26.627775 0 0 1 56.31627,26.48489 l -56.09086,0.14267 z" />
     <path
-       style="opacity:0.98999999;fill:#fee5e5;fill-opacity:1;stroke:#000000;stroke-width:0.98205864;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.98205864;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73333333;paint-order:markers stroke fill"
        id="path6491"
        sodipodi:type="arc"
        sodipodi:cx="75.517006"
