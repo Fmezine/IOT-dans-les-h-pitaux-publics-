@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.40627476"
-     inkscape:cx="-51.689158"
+     inkscape:cx="-51.689157"
      inkscape:cy="561.19657"
      inkscape:window-width="1440"
      inkscape:window-height="695"
@@ -89,18 +89,18 @@
        id="text6"><tspan
          x="66.69915"
          y="71.733047"
-         id="tspan1"><tspan
+         id="tspan5"><tspan
    y="71.733047"
-   id="tspan2">      </tspan></tspan></text>
+   id="tspan11">      </tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:5.64444px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
        x="93.46492"
        y="68.783707"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan7"
-         style="stroke-width:0.165"
+         style="font-size:5.64444px;line-height:0;fill:#2b0000;stroke-width:0.165"
          x="93.46492"
          y="68.783707">Télétransmission des données médicales</tspan></text>
     <text
@@ -111,7 +111,7 @@
        id="text8"><tspan
          sodipodi:role="line"
          id="tspan8"
-         style="stroke-width:0.165"></tspan></text>
+         style="stroke-width:0.165" /></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
@@ -120,7 +120,7 @@
        id="text9"><tspan
          sodipodi:role="line"
          id="tspan9"
-         style="stroke-width:0.165"
+         style="fill:#2b0000;stroke-width:0.165"
          x="110.45853"
          y="202.30501">Plateformes de gestion des données de santé</tspan></text>
     <text
@@ -131,7 +131,7 @@
        id="text10"><tspan
          sodipodi:role="line"
          id="tspan10"
-         style="stroke-width:0.165"
+         style="fill:#2b0000;stroke-width:0.165"
          x="108.43549"
          y="249.64438">Systèmes de surveillance continue</tspan></text>
     <text
@@ -142,17 +142,27 @@
        id="text11"><tspan
          x="37.628731"
          y="141.61351"
-         id="tspan3">Capteurs<tspan
-   y="141.61351"
-   id="tspan4"> </tspan></tspan><tspan
+         id="tspan15"><tspan
+           style="fill:#2b0000"
+           id="tspan13">Capteurs</tspan><tspan
+           style="fill:#2b0000"
+           id="tspan14"></tspan><tspan
+           y="141.61351"
+           id="tspan16"> </tspan></tspan><tspan
          x="37.628731"
          y="148.66906"
-         id="tspan5">médicaux<tspan
-   y="148.66906"
-   id="tspan6"> </tspan></tspan><tspan
+         id="tspan19"><tspan
+           style="fill:#2b0000"
+           id="tspan17">médicaux</tspan><tspan
+           style="fill:#2b0000"
+           id="tspan18"></tspan><tspan
+           y="148.66906"
+           id="tspan20"> </tspan></tspan><tspan
          x="37.628731"
          y="155.72462"
-         id="tspan13">connectés</tspan></text>
+         id="tspan22"><tspan
+           style="fill:#2b0000"
+           id="tspan21">connectés</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1"
@@ -161,7 +171,7 @@
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan12"
-         style="stroke-width:0.165"
+         style="fill:#2b0000;stroke-width:0.165"
          x="136.35358"
          y="139.18585">Télésanté</tspan></text>
   </g>
