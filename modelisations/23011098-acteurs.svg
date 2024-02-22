@@ -23,11 +23,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.33242272"
-     inkscape:cx="388.06012"
-     inkscape:cy="508.38883"
+     inkscape:zoom="0.59443071"
+     inkscape:cx="639.26711"
+     inkscape:cy="509.7314"
      inkscape:window-width="1440"
-     inkscape:window-height="449"
+     inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -54,7 +54,8 @@
        inkscape:randomized="0"
        d="M 96.902541,237.85169 8.1623555,185.16436 9.4208255,81.969443 99.419481,31.461851 188.15967,84.149177 186.9012,187.34409 Z"
        inkscape:transform-center-x="1.2366742e-06"
-       inkscape:transform-center-y="-1.6964633e-06" />
+       inkscape:transform-center-y="-1.6964633e-06"
+       transform="translate(4.4510374,-1.3353112)" />
     <path
        sodipodi:type="star"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -71,7 +72,7 @@
        inkscape:randomized="0"
        d="M 48.551381,114.6131 27.581333,101.58698 28.377257,76.913329 50.143229,65.265792 71.113278,78.291909 70.317354,102.96556 Z"
        inkscape:transform-center-y="-1.1330954e-06"
-       transform="translate(34.944326,32.725254)" />
+       transform="translate(53.638683,46.968573)" />
     <path
        sodipodi:type="star"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -88,7 +89,7 @@
        inkscape:randomized="0"
        d="M 48.551381,114.6131 27.581333,101.58698 28.377257,76.913329 50.143229,65.265792 71.113278,78.291909 70.317354,102.96556 Z"
        inkscape:transform-center-y="-1.1330954e-06"
-       transform="translate(72.515159,74.000254)" />
+       transform="translate(101.4469,86.908262)" />
     <path
        sodipodi:type="star"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -105,7 +106,7 @@
        inkscape:randomized="0"
        d="M 48.551381,114.6131 27.581333,101.58698 28.377257,76.913329 50.143229,65.265792 71.113278,78.291909 70.317354,102.96556 Z"
        inkscape:transform-center-y="-1.1330954e-06"
-       transform="translate(-5.5369243,71.619004)" />
+       transform="translate(7.8161879,88.532946)" />
     <path
        sodipodi:type="star"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -122,7 +123,7 @@
        inkscape:randomized="0"
        d="M 48.551381,114.6131 27.581333,101.58698 28.377257,76.913329 50.143229,65.265792 71.113278,78.291909 70.317354,102.96556 Z"
        inkscape:transform-center-y="-1.1330954e-06"
-       transform="translate(79.658909,-0.876829)" />
+       transform="translate(98.79837,-1.7670365)" />
     <path
        sodipodi:type="star"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -138,36 +139,42 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 48.551381,114.6131 27.581333,101.58698 28.377257,76.913329 50.143229,65.265792 71.113278,78.291909 70.317354,102.96556 Z"
-       inkscape:transform-center-y="-1.1330954e-06" />
+       inkscape:transform-center-y="-1.1330954e-06"
+       transform="translate(10.68249,-2.6706224)" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:39.4801;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
        x="46.163609"
        y="83.572052"
-       id="text5"><tspan
+       id="text5"
+       transform="translate(11.572697,2.6706225)"><tspan
          x="46.163609"
          y="83.572052"
-         id="tspan1">Medecins et<tspan
+         id="tspan2"><tspan
+   style="fill:#2b0000"
+   id="tspan1">Medecins et</tspan><tspan
    y="83.572052"
-   id="tspan2"> </tspan></tspan><tspan
+   id="tspan4"> </tspan></tspan><tspan
          x="46.163609"
          y="90.627598"
-         id="tspan4">Infirmiers<tspan
-   dx="-21.759207"
-   id="tspan3"></tspan><tspan
-   y="90.627598"
-   id="tspan11"> </tspan></tspan></text>
+         id="tspan9"><tspan
+           style="fill:#2b0000"
+           id="tspan5">Infirmiers</tspan><tspan
+           dx="-21.759207"
+           id="tspan7"></tspan><tspan
+           y="90.627598"
+           id="tspan11"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
-       x="123.36827"
-       y="88.347603"
+       x="149.1843"
+       y="88.792702"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         style="stroke-width:0.165"
-         x="123.36827"
-         y="88.347603">Patients</tspan></text>
+         style="fill:#2b0000;stroke-width:0.165"
+         x="149.1843"
+         y="88.792702">Patients</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:31.0254;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
@@ -177,38 +184,45 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
-       x="44.571762"
-       y="156.00116"
+       x="57.034668"
+       y="179.14656"
        id="text8"><tspan
          sodipodi:role="line"
          id="tspan8"
-         style="stroke-width:0.165"
-         x="44.571762"
-         y="156.00116">Constructeurs</tspan></text>
+         style="fill:#2b0000;stroke-width:0.165"
+         x="57.034668"
+         y="179.14656">Constructeurs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:34.522;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
        x="118.59273"
        y="155.20523"
-       id="text9"><tspan
+       id="text9"
+       transform="translate(33.382781,16.468839)"><tspan
          x="118.59273"
          y="155.20523"
-         id="tspan12">Sécurité<tspan
+         id="tspan13"><tspan
+   style="fill:#2b0000"
+   id="tspan12">Sécurité</tspan><tspan
    y="155.20523"
-   id="tspan13"> </tspan></tspan><tspan
+   id="tspan14"> </tspan></tspan><tspan
          x="118.59273"
          y="162.26078"
-         id="tspan14">sOCIALE</tspan></text>
+         id="tspan17"><tspan
+           style="fill:#2b0000"
+           id="tspan15">S</tspan><tspan
+           style="fill:#2b0000"
+           id="tspan16">OCIALE</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;direction:rtl;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.165"
-       x="77.204659"
-       y="122.57234"
+       x="102.57557"
+       y="139.04117"
        id="text10"><tspan
          sodipodi:role="line"
          id="tspan10"
-         style="stroke-width:0.165"
-         x="77.204659"
-         y="122.57234">Hopital</tspan></text>
+         style="fill:#2b0000;stroke-width:0.165"
+         x="102.57557"
+         y="139.04117">Hopital</tspan></text>
   </g>
 </svg>
